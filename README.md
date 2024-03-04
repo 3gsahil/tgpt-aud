@@ -9,18 +9,18 @@ programs and dependencies required for the script to work:
   -  piper <https://github.com/rhasspy/piper> : This is a program responsible for converting text to audio. It seems to be a custom program, so you need to have it installed and available in your working directory or accessible through your system's PATH. im using en_US-libritts-high.onnx language model here .
 
 
-#steps
+# steps
 
-'' cd /path/to/directory ''
+''' cd /path/to/directory '''
 
-'' make install ''
+''' make install '''
 
-#launch
+# launch
 
-"" tgpt-aud ""
+''' tgpt-aud '''
 
-#Uninstall
+# Uninstall
 
-''make uninstall''
+'''make uninstall'''
 
 

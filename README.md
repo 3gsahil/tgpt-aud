@@ -11,16 +11,16 @@ programs and dependencies required for the script to work:
 
 # steps
 
-''' cd /path/to/directory '''
+- cd /path/to/directory 
 
-''' make install '''
+- make install 
 
 # launch
 
-''' tgpt-aud '''
+- tgpt-aud 
 
 # Uninstall
 
-'''make uninstall'''
+- make uninstall
 
 
